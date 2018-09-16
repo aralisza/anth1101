@@ -74,13 +74,23 @@ Study of *cultures* and how they shape society. What this class is about.
 
 ### Adaptive
 
-* Needs to change to keep up with the times
-  * e.g. religions as they start to lose followers
+* Not fixed or immutable
+* Adaptive in terms of conflict
+  * Conflict in Gaza regenerated the peace left movement
+* Adaptive in terms of use of technology
+  * Arctic people embraced snowmobile instead of sled dogs
+  * Reject after snowmobile freeze up in the cold
+* Cricket
+  * British colonizers brought it
+    * Framed as fun game, children took it on
+    * As they grew up, modified the game to make their own
 
 ### Symbolic
 
 * Defines humanity from animals
-* e.g., written language, religious symbols, etc
+  * Chimps can make tools, but not symbols like written language
+* e.g., written language, religious symbols, flag, etc
+* Making Dakota a state "safe for white people"
 
 ### Conscious and Unconscious
 
