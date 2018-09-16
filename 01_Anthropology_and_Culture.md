@@ -1,5 +1,14 @@
 # ANTH1101 Week 1: 2018/09/03 - 2018/09/07
 
+## Outline
+
+1. [What is Anthropology](#what-is-anthropology)
+    1. [Archaeology](#archaeology-study-of-remains)
+    2. [Physical Anthropology](#physical-anthropology)
+    3. [Linguistics](#linguistics)
+    4. [Cultural Anthropology](#cultural-anthropology)
+2. [Culture](#culture)
+
 ## What is Anthropology
 
 ### Archaeology: study of remains
