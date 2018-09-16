@@ -71,3 +71,20 @@ Study of *cultures* and how they shape society. What this class is about.
 * Informal
   * Space (*Proximics*)
     * How far/close you can stand to a person based on how close of a relationship  you have
+
+### Adaptive
+
+* Needs to change to keep up with the times
+  * e.g. religions as they start to lose followers
+
+### Symbolic
+
+* Defines humanity from animals
+* e.g., written language, religious symbols, etc
+
+### Conscious and Unconscious
+
+* Conscious: creating or wearing symbols
+  * e.g., 4th of july celebration
+* Unconscious
+  * *Anthropology of Space*
