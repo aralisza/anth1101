@@ -12,6 +12,9 @@
     2. [Organ Trade](#organ-trade)
 5. [Tools of Anthropology](#tools-of-anthropology)
 6. [Field Methods](#field-methods)
+    1. [Traditional method](#traditional-method)
+    2. [Crisis of Representation](#crisis-of-representation-the-problem-with-traditional-method)
+    3. [How to succeed at fieldwork](#how-to-succeed-at-fieldwork)
 
 ## Ethnocentrism: Self-other distinctions
 
@@ -91,39 +94,65 @@ Placing yourself in another culture, fosters awareness of other cultures and wea
 ### Organ Trade
 
 * Structural violence of everyday life impacting the poor.
+  * Institutional perception of what these people are
+  * Go in for ovarian cyst removal and also lose a kidney
+    * The institution can take whatever they want without any consequence
 * Poor are inaudible.
-  * Body theft rumors are seen as a ‘surrogate” for of witnessing
+  * Body theft rumors are seen as a "surrogate" for of witnessing
 * “Little people like ourselves are worth more dead than alive.”
 
 ## Tools of Anthropology
 
 1. Participant observation
 2. Field Interview
+    * Casual conversation
     * How to transcribe?
 3. Formal Interview
+    * Requires prior trust
 4. Ethnohistory
 
 ## Field Methods
 
-### Traditional method (Branislaw Malinowski)
+### Traditional method
 
-* Lengthy stays in the field.
-* Participant-Observer Status.
-* Language acquisition.
-* Early anthropologists cultivated the authoritative voice.
-* Pure scientific research model.
-* Holistic view of culture.
-* Final results: an *ethnography* of the culture.
+* Branislaw Malinowski
+  * Father of **Ethnography**
+    * End result of field work
+      * Use culture to advance career, then move on :(
+    * Holistic view of culture.
+      * Each chapter is one slice of the culture, all together makes the culture
+  * Stayed in area for a long time, by accident learned about people
+  * Participant-Observer Status.
+    * Observing easy
+    * Active participation in culture is difficult
+      * Lee *being asked to participate* in hunting with the Ju'Hoansi
+  * Language acquisition
+    * Formal or informal language
+  * Each individual as gatekeeper of culture
+    * If they like you, they will let you in to the culture
+  * Early anthropologists cultivated the authoritative voice.
+    * Write things as though they were the expert
+  * Pure scientific research model.
 
-### Problem with traditional method (Crisis of representation)
+### Crisis of Representation: the problem with traditional method
 
-* Can we ever really know all that there is of any culture (even our own)?
-* How will we ever account for everyone in culture we are studying?
-* Who is really at the heart of our work?  And, who is ignored?
+* Crisis of representation
+  * Who is really at the heart of our work?  And, who is ignored?
+  * How will we ever account for everyone in culture we are studying?
+    * Not necessarily will have access to everyone
+  * Once immersed in culture, build relationship with people
+    * Ethnographies will reflect these relationships
+* Can we ever really know all that there is of any culture, even our own?
+* Implies cultures are unchanging
 * What ‘voice’ should we actually use?
+  * Student voice - one who is excited about something and wants to learn
 
 ### How to succeed at fieldwork
 
+* By being participants in the culture, we try to be the insider of culture
+  * If go inside too far, you are in danger of *"going native"*
+    * Lose anthropology perspective of outsider that you went there for in the first place
+  * However, we are always outsiders
 * Not accepting the view that we are ‘experts’.
 * Understanding that erring is part of learning another culture.
 * Becoming part of the exchange networks that make up cultures.
