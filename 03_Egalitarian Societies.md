@@ -19,7 +19,7 @@
   * Hallmark of egalitarian societies
   * Farming came into existence about 7000 years ago
 * **Population was small** - cultures of several thousand
-  * The community is more face-to-face and has better understanding of each other because they all know each other
+  * The community is more face-to-face and has better understanding of each other because they all know each  other
 * **Population density is extremely low**
   * Spread out large distance to hunt
 * Both above for **economic reasons**
