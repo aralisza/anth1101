@@ -12,6 +12,8 @@
 
 ## Economics
 
+### How they sustain themselves
+
 * **hunting and gathering** as subsistence system
   * Hallmark of egalitarian societies
   * Farming came into existence about 7000 years ago
@@ -64,7 +66,7 @@
 
 ## Society
 
-### Why there is gender equality in San society
+### Why there is gender equality
 
 * Economics is subsistence system, so women's contributions are seen as equally important to subsistence
   * Specifically, when men were unable to successfully hunt game (which is 2/3 of the time), women are able to gather enough to subsist society
