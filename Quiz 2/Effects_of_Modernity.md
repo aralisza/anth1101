@@ -38,8 +38,7 @@
   * reproduction of colonial relationship
   * even though Ju'hoansi people get educated (or other assistance) in South Africa, it's not to become doctor, lawyer etc. It's to return to their "rightful place" at the bottom rung of society
   * doesn't help with sovereignty
-
-* Sovereignty
+* Sovereignty: political control and autonomy
   * Land claims
     * Ju'hoansi was able to get some traditional land back through land claims case
   * Tourism
@@ -51,3 +50,5 @@
     * however, some success
       * tourism companies wanted to show healing dances, but the Ju people had forgotten how to do it. They had to go to the old people and reproduce tradition
       * taking control part of it is one step to take control of their future
+  * agency
+  * craft production

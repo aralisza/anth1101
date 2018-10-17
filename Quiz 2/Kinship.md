@@ -1,30 +1,34 @@
 # Kinship
 
 * Goal: Ties societies together
+* simple logistical systems to categorize familial relationships
+* Ju'hoansi
+  * Adopt 3 systems: Bilateral, Naming, and Wi systems
 
 ## Kinship system
 
 * Kinship systems vary based on culture
   * Nore: Area for hunting and gathering that a tribe has the right to use
-* **Bilateral kinship system**
-  * hereditary, marriage, what we typically think of as kinship
-  * Collect terms to represent familial names (ex. Father, mother, cousin, etc.)
-  * Triangles in family tree represent men, circles represent women, equal sign represents marriage, shapes on same level represent one generation
-  * Terms for immediate (nuclear) family different from terms to represent non-immediate relatives
-  * Example: Inuit
-* **Naming Kinship system**
-  * Linguistic shifts in familial naming system
-  * Does not follow bilateral system of Inuit, names are assigned independently
-  * People with same name as you are related to you
-  * Example: Ju'hoansi, Iroquois
-* Hawaiian: Wi
-  * Same sex siblings are mothers and fathers
-* Sudanese
-  * every person is linked to you
-* simple logistical systems to categorize familial relationships
-* Ju'hoansi
-  * Adopt 3 systems: Bilateral, Naming, and Wi systems
-  * Wi: Age gives you a little more respect
+
+### Bilateral kinship system
+
+* hereditary, marriage, what we typically think of as kinship
+* Collect terms to represent familial names (ex. Father, mother, cousin, etc.)
+* Triangles in family tree represent men, circles represent women, equal sign represents marriage, shapes on same level represent one generation
+* Terms for immediate (nuclear) family different from terms to represent non-immediate relatives
+* Example: Inuit
+
+### Naming Kinship system
+
+* Linguistic shifts in familial naming system
+* Does not follow bilateral system of Inuit, names are assigned independently
+* People with same name as you are related to you
+* Example: Ju'hoansi, Iroquois
+
+### Wi
+
+* Wi: Age gives you a little more respect
+* older person gets to choose which kinship you have to them if there can be more than one
 
 ## Residence/Descent
 
@@ -43,9 +47,3 @@
     * When land, wealth, and agriclture comes in to play, becomes more Patrilocal
   * Ambilocal => Ambilineal
     * Example: U.S. now?
-
-* Sovereignty: political control and autonomy
-  * agency
-  * land claims
-  * tourism
-  * craft production
