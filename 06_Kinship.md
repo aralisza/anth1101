@@ -43,3 +43,9 @@
     * When land, wealth, and agriclture comes in to play, becomes more Patrilocal
   * Ambilocal => Ambilineal
     * Example: U.S. now?
+
+* Sovereignty: political control and autonomy
+  * agency
+  * land claims
+  * tourism
+  * craft production
