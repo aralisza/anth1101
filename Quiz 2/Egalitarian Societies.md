@@ -40,6 +40,18 @@
   * When Nai's daughter gets picked on for allegedly cheating, it's because Nai's "not sharing"
     * Erosion of their cultural system
   * Changing of cultural system has historically been devastating for indigenous communities
+  * **Hxaro**: "gift giving"/sharing promote a widespread goodwill
+    * creates a social bond
+    * reciprocity - I give you something, you give me back something at some other point in time
+      * lifetime arrangement, doesn't have to be soon
+      * doesn't have to be same value
+    * different from collective ownership because it relies on individuals seeking ways to give and receive gifts
+  * envy/jealousy promote discord
+    * want to *level* the differences to avoid friction
+    * critical to egalitarian relations
+    * Nai: can't take her money, but can make her feel unwanted
+      * social capital: you're desireable because you share things
+  * You know when someone's in need, you don't have to ask
 
 ### Population
 
