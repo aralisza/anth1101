@@ -1,15 +1,13 @@
-# Week 5 pt 2
+# Conflict Resolution
 
-## Conflict Resolution
-
-### Our system
+## Our system
 
 * Mediation
   * two individuals give power to third party to decide for them
   * courts, arbitrators, mediators
   * typically in society with an authority (state)
 
-### Egalitarian societies' system
+## Egalitarian societies' system
 
 * tier based system of intervention
 * can't do mediation like we have because they don't have a central authority
@@ -17,21 +15,21 @@
   * face to face, intimate society
   * people know you too well
 
-#### 1. **fight or flight**
+### 1. **fight or flight**
 
 * avoid conflict with outside groups
   * outside groups include different bands of San people
 * get a "bad feeling", just leave
 * not "actual conflict resolution"
 
-#### 2. **admonishment**
+### 2. **admonishment**
 
 * to reinforce/encourage you in a certain direction
 * avoid conflict by giving advice
 * when Nai didn't like being in an arranged marriage, his uncle admonished her in a joking way to do it
   * using kinship relationship to get her on board
 
-#### 3. **ridicule**
+### 3. **ridicule**
 
 * teasing/making fun of *publicly*
 * becomes laughingstock of the group
@@ -43,7 +41,7 @@
   * becomes a contest
   * doesn't matter who wins, because the conflict is resolved
 
-#### 4. **ostracism**
+### 4. **ostracism**
 
 * socially remove someone
 * antithetical to human condition
@@ -65,7 +63,7 @@
     * government police doesn't cover the area very often
     * so, they ostracized her, equal to death sentence in late fall
 
-#### 5. **capital punishment**
+### 5. **capital punishment**
 
 * Ju'hoansi
   * if someone kills another person, there is an "imbalance"
