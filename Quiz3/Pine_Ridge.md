@@ -26,8 +26,8 @@ Whitemud - want to move house on to family land, but no money to buy materials t
 
 Fema - Oglawa tribe at Pine Ridge got FEMA to build 214 homes
 
-    * poor build quality, last 4 years at best
-    * in reality, much less than that
+* poor build quality, last 4 years at best
+* in reality, much less than that
 
 ## Poverty porn
 
