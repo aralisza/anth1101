@@ -24,19 +24,21 @@ Little boy - new house is like a mansion
 
 Whitemud - want to move house on to family land, but no money to buy materials to build house
 
-Fema - Oglawa tribe at Pine Ridge got FEMA to build 214 homes
+FEMA - Oglawa tribe at Pine Ridge got FEMA to build 214 homes
 
 * poor build quality, last 4 years at best
 * in reality, much less than that
 
 ## Poverty porn
 
-* donate to our nonprofit beacause we're so sad and impoverished :(
+* donate to our nonprofit because we're so sad and impoverished :(
 * poverty may look a lot like poverty porn, but may not always look like that
     * e.g., kids in whitemud family were still happy and playful because they're still kids
-* if it was always as one-dimensionally bad as poverty porn shows it to be, why would anyone want to go back to the reservation?
+* if it was always as one-dimensional-ly bad as poverty porn shows it to be, why would anyone want to go back to the reservation?
 * we're poor, but we're not poor in culture
 * it means people have hope
 * 60+ NGOs on Pine Ridge, but they're mostly helping to tread water
     * only a few are actually helping, and they're all local
     * everyone else just has a job to do
+* "why are they there? there must be something wrong with them"
+    * victim blaming
