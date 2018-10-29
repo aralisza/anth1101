@@ -53,14 +53,27 @@
     * Indian agents gave all the resources to the Friendlies to share among themselves and the Hostiles were given a lot less
         * this increased tensions between the two factions
         * turned Friendlies into "treaty chief" or "uncle tomahawk" or "apples" (red on outside, white on inside) that do white man's bidding
-    * **Red Cloud**: Used to be a Hostile but turned into a Friendly after entering reservation
-        * Give them an all expenses paid trip to Washington DC to meet the president
-        * "White people are like sands in the shore" - there's a lot of white folk out there and there's a few of us. I don't think we have a chance
-        * By the time they give back, they are no longer a Hostile
-        * Red Cloud wanted catholic boarding school - Holy Rosary
-            * was a disaster
-            * both sex scandal and cultural genocide
-            * "you have to kill the indian to save the child"
-            * 1960's - it was no longer cool to oppress people
-                * let's change the name to Red Cloud and offer Lakota language classes
-                * was it a change of heart? probably not because they never acknowledged the bad they did
+
+## Schooling
+
+* **Red Cloud**: Used to be a Hostile but turned into a Friendly after entering reservation
+    * Give them an all expenses paid trip to Washington DC to meet the president
+    * "White people are like sands in the shore" - there's a lot of white folk out there and there's a few of us. I don't think we have a chance
+    * By the time they give back, they are no longer a Hostile
+    * Red Cloud wanted catholic boarding school - Holy Rosary
+        * was a disaster
+        * both sex scandal and cultural genocide
+        * "you have to kill the indian to save the child"
+    * 1960's - it was no longer cool to oppress people
+        * let's change the name to Red Cloud and offer Lakota language classes
+        * was it a change of heart? probably not because they never acknowledged the bad they did
+    * "ghetto within a ghetto"
+        * natives were uncomfortable of that school because it wasn't reflective of their community
+        * draws students from the 20% of the reservation that are employed
+        * doesn't take the kids with fetal alcohol syndrome or meth babies
+        * students have parents that drive their kids to school (!!)
+* Haskell Boarding School (Created by Pratt)
+    * Pratt "re-educated" prisoners to "bring back into society"
+    * he realized older people were not the best targets for his program, so he created his boarding schools
+    * Haskell used to be cultural genocide but has since reformed into a pillar of indian community
+        * has "collective amnesia" for past
