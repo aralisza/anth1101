@@ -72,3 +72,26 @@
     * according to "gods", hanging yourself = purgatory, but if you hang yourself and your baby daughter you will never enter heaven and you will be dragging the tree you hang yourself on forever
         * women who kill themselves try to find the smallest tree that they could find
     * ("heaven" refers to the place where you reconnect with your loved ones that died)
+
+## Rituals
+
+* Sweats
+    * happens whenever people are together
+* sundance
+    * (not ghost dance)
+        * harbinger of end of the culture
+    * one time when large groups of lakota get together
+        * celebrate being lakota
+    * when people are in crisis, they make vows
+        * if I get through this, I will do the sundance
+        * pierce though skin
+    * in 20th centuries, missionaries made sundance illegal
+        * ensured the survival of the sundance because of the lengths they had to go to do it
+        * now more of protest than celebrating being lakota
+* smudging
+    * burn braided grass, let smoke wash over you
+    * not necessarily organized, it happens all the time
+* Powwows, giveaways
+* Less of religion and more of spiritual existence
+* birds, trees, plants are other versions of themselves
+    * two-wing nation = birds
