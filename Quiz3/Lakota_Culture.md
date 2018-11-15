@@ -51,12 +51,15 @@
 
 ## Status of women
 
+* Pre-horse days, status of women roughly equal to the women of Ju'hoansi
+    * i.e., equal to men
+* After buffalo hunting begins, men control of wealth
 * if a women didn't want to get married, would she be able to express her dissatisfaction?
     * Elope
         * couple elopes and lives in another band
         * once gives birth, come back to original tribe
         * husband that eloped with brings a bunch of horses to the woman's father to smooth things over
-            * combined with the baby, it's enough to make things better
+            * combined with the baby, it's usually enough to make things better
         * BUT the father could reject the horses and could even kill his daughter in a gruesome way (draw and quarter)
             * rare, but still could happen
             * daughter's calculated gamble
@@ -67,11 +70,14 @@
             * can't kill the lover because men rely on each other in war
         * "Cut nose woman" - cut off her nose
             * you are allowed to kill your wife, but maim her instead so she is no longer appealing to other men and can stay in your house to do your work
-* more and more women are committing suicide
-    * hang yourself and kill their baby daughters to make a statement
-    * according to "gods", hanging yourself = purgatory, but if you hang yourself and your baby daughter you will never enter heaven and you will be dragging the tree you hang yourself on forever
-        * women who kill themselves try to find the smallest tree that they could find
-    * ("heaven" refers to the place where you reconnect with your loved ones that died)
+            * replacing her is too expensive (give a bunch of horses to her father)
+    * committing suicide
+        * hang yourself and kill their baby daughters to make a statement
+        * according to "gods", hanging yourself = purgatory, but if you hang yourself and your baby daughter you will never enter heaven and you will be dragging the tree you hang yourself on forever
+            * women who kill themselves try to find the smallest tree that they could find
+        * ("heaven" refers to the place where you reconnect with your loved ones that died)
+* Honor killings
+* After moving on the reservations, position of men crumbled due to collapse of economic system
 
 ## Rituals
 
@@ -82,12 +88,13 @@
         * harbinger of end of the culture
     * one time when large groups of lakota get together
         * celebrate being lakota
-    * when people are in crisis, they make vows
+    * when people are in crisis, they make vows to higher power
         * if I get through this, I will do the sundance
-        * pierce though skin
+        * pierce though skin using skewers, making a sacrifice
     * in 20th centuries, missionaries made sundance illegal
         * ensured the survival of the sundance because of the lengths they had to go to do it
-        * now more of protest than celebrating being lakota
+        * now also protest in addition celebrating being lakota
+        * tribal identity - whole tribe gathers
 * smudging
     * burn braided grass, let smoke wash over you
     * not necessarily organized, it happens all the time
@@ -95,3 +102,4 @@
 * Less of religion and more of spiritual existence
 * birds, trees, plants are other versions of themselves
     * two-wing nation = birds
+* connection to the land/attachment to nature to give children the earth

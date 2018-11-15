@@ -13,9 +13,14 @@
         * supposed to share, but the arrow that killed the buffalo was effectively a property marker
     * what happens to those without sons or husbands to hunt for them?
         * **Crisis in provisioning**: these people are left out in the cold. who will care for them?
+        * Rise of private property causes wealth and security goes to people with access to technology (young men)
     * values around being generous and caring for the "people" but not by necessity.
         * built in reminders in society to share
         * *Tieing the tail*: if you want a piece of buffalo but you didn't contribute to killing it, you can tie the tail using an article of your clothing to claim a piece
+            * Used old culture to solve new problems
+            * Tieing the tail in the old days was just something that was ancillary and unimportant
+                * Used for windfalls only
+                * calling "dibs"
 
 ## The impact of hide trade
 
