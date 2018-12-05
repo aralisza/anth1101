@@ -7,31 +7,31 @@
     * "We're at each others' throats on Monday and at each others' weddings on Sunday"
 * In Texas, Mexican identity was slowly stripped away and whitewashed
     * Martha and George Washington (kind of like prom king and queen) ceremony
-    * But in Lareto, Martha and George Washington was not white
-    * Become **Abrazos ceremony** where mayor of Lareto and Nuevo Lareto come together as celebration
+    * But in Laredo, Martha and George Washington was not white
+    * Become **Abrazos ceremony** where mayor of Laredo and Nuevo Laredo come together as celebration
 * The Tecos (of Laredo)
-    * The only binational sports franchise in the world
+    * The only bi-national sports franchise in the world
 * Border is permeable, influences and goods and people move across
     * Some can't be regulated
     * Some people don't care about being regulated
 * More than one notion of nation going on
 
-## Three nationalisms
+## Three Nationalisms
 
 * Tecos is all three
 
-### Autonational
+### Auto-national
 
-* Traditional notion of nationalsim
+* Traditional notion of nationalism
 * Art, symbols, music, etc can engender national pride
 
-### Binational
+### Bi-national
 
 * The first person that died due to pollution in Rio Grande made news on both sides
 * Both cities got together to solve problem
-* Differs from transnationalism because you would not confuse yourself as American or Mexican, but you work together
+* Differs from trans-nationalism because you would not confuse yourself as American or Mexican, but you work together
 
-### Transnationalism
+### Trans-nationalism
 
 * Breakdown of borders
 * Laredo and Nuevo Laredo together become a single, different entity
