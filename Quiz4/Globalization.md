@@ -1,8 +1,15 @@
 # Parts of Globalization
+
 * Homogenization
 * Social flows
+* Flexible Accumulation
+  * Flexibility that comes with globalization/time-space compression
+  * Ability of companies to split up the process of production to different countries all across the world  this is done to make production cheaper
+  * Spreading out various tasks and material needs of producing an item all across the world
+  * Causes race to the bottom
 
 ## Lexus & Olive Tree
+
 * One of the first books on globalization
 * Lexus = globalization
 * Olive tree = the traditional notion of nation (nationalism)
@@ -18,6 +25,7 @@
 * Arbitrage (Nations)
     * We now know more about other nations, affects how we think about/interact with them
     * Nations are no longer isolated
+* Benedict Anderson - imagined community
 
 ## Time-Space Compression
 
